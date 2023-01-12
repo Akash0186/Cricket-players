@@ -1,0 +1,35 @@
+
+.single{
+    display:flex;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px ;
+    padding: 20px;
+}
+.single-name h1{
+    color: black;
+    font-weight: 400;
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+.single img{
+    height: 100%;
+    width: 100%;
+
+}
+.order-button{
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    cursor:pointer;
+}
+.single-name{
+    margin-left: 40px;
+   
+}
+

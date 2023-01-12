@@ -1,0 +1,130 @@
+[{
+    "id": "0",
+    "category": "All-rounder",
+    "name": "Sakib Al Hasan",
+    "wholePrice": 16000000,
+    "star": 5,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244928/shakib-al-hasan.jpg"
+},
+
+{
+    "id": "1",
+    "category": "wicket-keeper",
+    "name": "Mushfiqur rahim",
+    "wholePrice": 12000000,
+    "star": 5,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+},
+{
+    "id": "2",
+    "category": "Batter",
+    "name": "TAMIM IQBAL",
+    "wholePrice": 13000000,
+    "star": 5,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+},
+{
+    "id": "3",
+    "category": "ALL-ROUNDER",
+    "name": "MAHMUDULLAH RIAD",
+    "wholePrice": 12000000,
+    "star": 5,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+},
+{
+    "id": "4",
+    "category": "BATTER",
+    "name": "SHOUMYO SHARKAR",
+    "wholePrice": 11000000,
+    "star": 5,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244930/soumya-sarkar.jpg"
+},
+{
+    "id": "5",
+    "category": "BATTER",
+    "name": "IMRUL KAYES",
+    "wholePrice": 13000000,
+    "star": 4,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319700/319722.png"
+},
+{
+    "id": "6",
+    "category": "BATTER",
+    "name": "SABBIR RAHMAN",
+    "wholePrice": 10000000,
+    "star": 4,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893490-e1520011381871.jpg"
+},
+{
+    "id": "7",
+    "category": "ALL-ROUNDER",
+    "name": "NASIR HOSSAIN",
+    "wholePrice": 11000000,
+    "star": 4,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514185100-e1520258816642.jpg"
+},
+{
+    "id": "8",
+    "category": "wicket-keeper",
+    "name": "LITON DASH",
+    "wholePrice": 10000000,
+    "star": 4,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2019/05/Liton-DAs-e1557932559815.jpg"
+},
+{
+    "id": "9",
+    "category": "BOWLER",
+    "name": "TASKIN AHMED",
+    "wholePrice": 12000000,
+    "star": 5,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg"
+},
+{
+    "id": "10",
+    "category": "BOWLER",
+    "name": "RUBEL HOSSAIN",
+    "wholePrice": 15000000,
+    "star": 5,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893494-e1520011263757.jpg"
+},
+{
+    "id": "11",
+    "category": "BOWLER",
+    "name": "MUSTAFIZUR RAHMAN",
+    "wholePrice": 12000000,
+    "star": 5,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893322-e1517999574174.jpg"
+},
+{
+    "id": "12",
+    "category": "BOWLER",
+    "name": "MASHRAFEE BIN MORTOZA",
+    "wholePrice": 16000000,
+    "star": 5,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893460-e1520011185152.jpg"
+},
+{
+    "id": "13",
+    "category": "BOWLER",
+    "name": "ALAMIN HOSSAIN",
+    "wholePrice": 12000000,
+    "star": 4,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156217/al-amin-hossain.jpg"
+},
+{
+    "id": "14",
+    "category": "ALL-ROUNDER",
+    "name": "MIRAZ",
+    "wholePrice": 12000000,
+    "star": 4,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244919/mehidy-hasan-miraz.jpg"
+},
+{
+    "id": "15",
+    "category": "BOWLER",
+    "name": "AMINUL ISLAM BIPLOB",
+    "wholePrice": 8000000,
+    "star": 4,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319700/319720.png"
+}
+]
